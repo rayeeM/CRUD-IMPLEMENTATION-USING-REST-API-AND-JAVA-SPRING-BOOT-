@@ -1,0 +1,18 @@
+{
+  "frontendFolder": "C:/Users/cynth/Downloads/child/./frontend",
+  "themeFolder": "themes",
+  "themeResourceFolder": "C:/Users/cynth/Downloads/child/./frontend/generated/jar-resources",
+  "staticOutput": "C:/Users/cynth/Downloads/child/target/classes/META-INF/VAADIN/webapp/VAADIN/static",
+  "generatedFolder": "generated",
+  "statsOutput": "C:\\Users\\cynth\\Downloads\\child\\target\\classes\\META-INF\\VAADIN\\config",
+  "frontendBundleOutput": "C:\\Users\\cynth\\Downloads\\child\\target\\classes\\META-INF\\VAADIN\\webapp",
+  "devBundleOutput": "C:/Users/cynth/Downloads/child/src/main/dev-bundle/webapp",
+  "devBundleStatsOutput": "C:/Users/cynth/Downloads/child/src/main/dev-bundle/config",
+  "jarResourcesFolder": "C:/Users/cynth/Downloads/child/./frontend/generated/jar-resources",
+  "generatedFlowImportsFolder": "target/frontend",
+  "themeName": "",
+  "clientServiceWorkerSource": "C:\\Users\\cynth\\Downloads\\child\\target\\sw.ts",
+  "pwaEnabled": false,
+  "offlineEnabled": false,
+  "offlinePath": "'offline.html'"
+}
